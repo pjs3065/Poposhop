@@ -1,0 +1,17 @@
+﻿Build started 2017-06-22 오후 11:06:57.
+     1>Project "C:\Users\박재성\Documents\Visual Studio 2012\Projects\PoposhopColor\PoposhopColor\PoposhopColor.vcxproj" on node 2 (Build target(s)).
+     1>Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\박재성\Documents\Visual Studio 2012\Projects\PoposhopColor\Debug\PoposhopColor.exe" /INCREMENTAL /NOLOGO /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:"C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\Include\Manifest\dpiaware.manifest" /DEBUG /PDB:"C:\Users\박재성\Documents\Visual Studio 2012\Projects\PoposhopColor\Debug\PoposhopColor.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\박재성\Documents\Visual Studio 2012\Projects\PoposhopColor\Debug\PoposhopColor.lib" /MACHINE:X86 Debug\PoposhopColor.res
+         Debug\ChildFrm.obj
+         Debug\kwu.obj
+         Debug\MainFrm.obj
+         Debug\PoposhopColor.obj
+         Debug\PoposhopColorDoc.obj
+         Debug\PoposhopColorView.obj
+         Debug\stdafx.obj
+         PoposhopColor.vcxproj -> C:\Users\박재성\Documents\Visual Studio 2012\Projects\PoposhopColor\Debug\PoposhopColor.exe
+     1>Done Building Project "C:\Users\박재성\Documents\Visual Studio 2012\Projects\PoposhopColor\PoposhopColor\PoposhopColor.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.50
